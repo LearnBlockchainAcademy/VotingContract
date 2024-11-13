@@ -1,0 +1,20 @@
+{
+  "name": "votingcontract",
+  "version": "1.0.0",
+  "description": "Your goal is to create a decentralized voting smart contract in Solidity. This assignment will guide you through defining the structure and implementing functions and attributes without providing the complete code. Follow the steps and instructions to build the contract from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "chain": "npx hardhat node",
+    "compile": "npx hardhat compile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.22.15"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
